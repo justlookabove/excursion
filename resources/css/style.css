@@ -1,21 +1,42 @@
 * {
     font-family: "verdana";
+    font-weight: normal;
     background-color: black;
-    text-align: center;
+
 }
 .title {
     font-family: "verdana";
-    font-weight: normal;
-    font-size: 50px;
+    font-size: 38px;
     color: white;
+    text-align: center;
+}
+
+.pictures_and-video {
     text-align: center;
 }
 
 .link {
     color: aquamarine;
-    font-size: 16px;
+    font-size: 14px;
+    text-align: center;
 }
 
-.iPhone {
-    
+.title_below {
+    font-family: "verdana";
+    color: white;
+    font-weight: 300;
+    font-size: 22px;
+    text-align: center;
+}
+
+.paragraph {
+    font-family: "verdana";
+    color: gray;
+    font-size: 18px;
+    text-align: center;
+}
+
+.copyright {
+    text-align: right;
+    color: gray;
 }
